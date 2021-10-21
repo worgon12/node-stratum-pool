@@ -17,7 +17,9 @@
         "scrypt",
         "equihash",
         "verushash",
-        "x16rv2"
+        "x16rv2",
+        "kawpow",
+        "yescrypt"
     ],
     "homepage": "https://github.com/worgon12/node-stratum-pool.git",
     "bugs": {
