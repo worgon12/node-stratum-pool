@@ -38,14 +38,12 @@
     "dependencies": {
         "async": "^3.1.0",
         "base58-native": "^0.1.4",
-        "bchaddrjs": "^0.4.2",
-        "bignum": "git://github.com/Invader444/node-bignum.git#node12",
+        "bignum": "0.13.1",
         "bitgo-utxo-lib": "git://github.com/miketout/bitgo-utxo-lib.git",
-        "cryptocurrency-addr": "git://github.com/Invader444/node-cryptocurrency-addr.git",
-        "equihashverify": "git://github.com/AoD-Technologies/equihashverify.git",
+        "equihashverify": "git://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin": "^1.0.2",
         "multi-hashing": "git://github.com/Multicoin-co/node-multi-hashing.git",
-        "promise": "^8.0.3",
+        "promise": "^8.0.1",
         "verushash": "git://github.com/AoD-Technologies/verushash-node.git"
     },
     "engines": {
