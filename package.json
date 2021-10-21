@@ -43,7 +43,6 @@
         "bignum": "0.13.1",
         "bitgo-utxo-lib": "git://github.com/miketout/bitgo-utxo-lib.git",
         "merkle-bitcoin": "^1.0.2",
-        "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "multi-hashing": "git://github.com/Multicoin-co/node-multi-hashing.git",
         "promise": "^8.0.1",
         "verushash": "git://github.com/AoD-Technologies/verushash-node.git"
